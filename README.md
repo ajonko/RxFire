@@ -1,13 +1,16 @@
 # RxFire
-Data and code accompanying publication: Jonko et al. "How will future climate change impact prescribed fire across the US?"
+This repository contains data and code accompanying the following publication: 
 
-1. Compute_burndays_from_MACA_or_gridMET_data.py - code which computes burn days
+Jonko, A., J. Oliveto, T. Beaty, A. Atchley, M. A. Battaglia, M.B. Dickinson, M.R. Gallagher, A. Gilbert, D. Godwin, J.A. Kupfer, J.K. Hiers, C. Hoffman, M. North, J. Restaino, C. Sieg, and N. Skowronski "How will future climate change impact prescribed fire across the continguous United States?" npj Climate and Atmospheric Science (submitted).
+
+1. Compute_burndays_from_MACA_or_gridMET_data.py - code used to compute burn days
 2. Rx_windows_github.xlsx - excel spreadsheet containing prescription information
 
 Other data needed to execute the code are openly available, including: 
-MACA downscaled climate data: https://climate.northwestknowledge.net/MACA/
-LANDFIRE fuel data: https://landfire.gov/fbfm40.php 
-Shapefile of Level II ecoregions: https://www.epa.gov/eco-research/ecoregions-north-america
+1. MACA downscaled climate data: https://climate.northwestknowledge.net/MACA/
+2. gridMET climate data: https://www.climatologylab.org/gridmet.html
+3. LANDFIRE fuel data: https://landfire.gov/fbfm40.php 
+4. Shapefile for EPA Level II ecoregions: https://www.epa.gov/eco-research/ecoregions-north-america
 
 O4715
 
