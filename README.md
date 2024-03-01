@@ -3,8 +3,8 @@ This repository contains data and code accompanying the following publication:
 
 Jonko, A., J. Oliveto, T. Beaty, A. Atchley, M. A. Battaglia, M.B. Dickinson, M.R. Gallagher, A. Gilbert, D. Godwin, J.A. Kupfer, J.K. Hiers, C. Hoffman, M. North, J. Restaino, C. Sieg, and N. Skowronski "How will future climate change impact prescribed fire across the continguous United States?" npj Climate and Atmospheric Science (submitted).
 
-1. Compute_burndays_from_MACA_or_gridMET_data.py - code used to compute burn days
-2. Rx_windows_github.xlsx - excel spreadsheet containing prescription information
+1. Burn_day_calculation.py - code used to compute burn days
+2. Rx_windows_github.csv - excel spreadsheet containing prescription information
 
 Other data needed to execute the code are openly available, including: 
 1. MACA downscaled climate data: https://climate.northwestknowledge.net/MACA/
